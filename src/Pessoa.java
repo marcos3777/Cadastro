@@ -45,7 +45,7 @@ public class Pessoa {
     }
 
     public String toString() {
-        return getComercial();
+        return nome + residencial + comercial;
 
     }
 
